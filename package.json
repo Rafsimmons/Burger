@@ -1,5 +1,5 @@
 {
-  "name": "Burger",
+  "name": "burger",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "githttps://github.com/Rafsimmons/Burger"
+    "url": "https://rafsimmons.github.io/Burger/"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rafsimmons/Burger"
+    "url": "https://rafsimmons.github.io/Burger/"
   },
-  "homepage": "https://github.com/Rafsimmons/Burger",
+  "homepage": "https://rafsimmons.github.io/Burger/",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^3.1.0",
